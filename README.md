@@ -4,7 +4,7 @@
 
 ## It uses Human Activity Recognition Using Smartphones Dataset Version 1.0
 
-- the data for the project [data]{[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI HAR Dataset.zip)}
+- the data for the project [data]()[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]()
 - A full description is available at the site where the data was obtained:[description]{http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones}
 
 - First download the data set from the link and then set a working directory to **UCI HAR Dataset**
@@ -37,7 +37,6 @@
 
   - Finally, exports and save a data set with a name **tidy_mean_std.txt**
 
-  - 
 
     
 
